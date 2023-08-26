@@ -1,4 +1,4 @@
-class Testng{
+class Default_Value_PrimitiveDataType{
 	
 static int a;   		//default value zero(0)
 static short b;		//default value zero(0)
@@ -20,9 +20,9 @@ static String g;		//default value null
 
 
 /*output
-E:\JAVA_ALL_PROGRAM>javac Testng.java
+E:\JAVA_ALL_PROGRAM>javac Default_Value_PrimitiveDataType.java
 
-E:\JAVA_ALL_PROGRAM>java Testng
+E:\JAVA_ALL_PROGRAM>java Default_Value_PrimitiveDataType
 0
 0
 0
